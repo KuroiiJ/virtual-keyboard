@@ -6,14 +6,15 @@ body {
 
 .words-and-box {
     padding: 20px;
-    margin: 50px;
+    margin: 50px 75px 50px 175px ;
+    
 }
 
 .text-box {
     outline: outset;
     height: 7rem;
     padding: 20px;
-    margin-right: 100px;;
+    margin-right: 175px;;
 }
 
 
